@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Pull2
+=======
+Pull2
+More
+>>>>>>> FETCH_HEAD
